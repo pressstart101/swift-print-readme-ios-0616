@@ -1,6 +1,6 @@
-var favoriteWord = "mercurial"    // Use your own favorite word!
-var favoriteColor = "blue"        // Use your own favorite color!
-var favoriteMusician = "Nirvana"  // Use your own favorite musician!
+var favoriteWord = "brain"    // Use your own favorite word!
+var favoriteColor = "gray"        // Use your own favorite color!
+var favoriteMusician = "Yolandi"  // Use your own favorite musician!
 
 print(favoriteWord)
 print(favoriteColor)
